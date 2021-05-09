@@ -1,4 +1,4 @@
-# Webpack Express Example App
+# Webpack Express Example App AymanFayad
 
 The goal of this repo is be an example of a basic but functional app built on Express and Webpack.
 
@@ -29,7 +29,7 @@ We will cover:
 Fork this repo, then clone the branch of your choice from your forked repo down to your computer:
 
 ```
-git clone -- git@github.com:[your-user-name]/webpack-express.git --
+git clone -- git@github.com:AymanFayad/webpack-express.git --
 ```
 
 `cd` into your new folder and run:
